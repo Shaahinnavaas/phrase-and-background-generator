@@ -1,5 +1,4 @@
-# co6d6447980497dd5775ab78d
-
+Phrase and Background generator
 Quick start:
 
 ```
